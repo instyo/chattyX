@@ -1,6 +1,6 @@
 # ChattyX
 
-OpenAI chat wrapper, built with flutter. Available in iOS, Android, Web, Macos.
+OpenAI chat wrapper, built with flutter, responsive on all screen. Available in iOS, Android, Web, Macos. 
 
 <em>Vibecoding with Cursor ❤️‍🔥.</em>
 
