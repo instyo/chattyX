@@ -1,0 +1,1 @@
+find . -name "*.env" -o -name "*.json" -o -name "*.yml" -o -name "*.yaml" -o -name "*.config"

@@ -1,0 +1,46 @@
+{
+  "flutter": {
+    "platforms": {
+      "ios": {
+        "default": {
+          "projectId": "bachat-aae51",
+          "appId": "1:100619211857:ios:87e109234ae9f9f1ce1470",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "bachat-aae51",
+          "appId": "1:100619211857:ios:ebe347ebe5511b37ce1470",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bachat-aae51",
+          "configurations": {
+            "ios": "1:100619211857:ios:87e109234ae9f9f1ce1470",
+            "macos": "1:100619211857:ios:ebe347ebe5511b37ce1470",
+            "web": "1:100619211857:web:365d4ee074a17202ce1470"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

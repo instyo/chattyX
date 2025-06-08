@@ -1,0 +1,505 @@
+﻿Advanced Keyword 
+
+Research Guide
+
+
+
+Table of content
+
+3 Why keyword research is important
+
+4 How to build a keyword list and find new keyword ideas
+
+9 How to select the most relevant keywords
+
+13 Advanced Keyword Research Tips
+
+15 Localization - How to keyword research in different languages
+
+2
+
+
+
+Why keyword 
+
+research is important
+
+There are more than 3 million apps in both the Apple App Store 
+and the Google Play Store. Each day, another 3,000 new apps are 
+released on average. One of the main methods for people to 
+navigate this universe and discover new apps is “App Store Search”. 
+According to Apple, over 65% of app downloads come from app 
+store search, and nearly half of those searches were generic (not 
+branded) searches. 
+
+For your app or game to show up for specific searches you need to 
+make sure those keywords are targeted in your app listing’s 
+metadata. The app store algorithm will further assign your app a 
+higher rank if the keyword is contained in your app title or subtitle 
+over the long description or keyword field.
+
+ 
+
+The app store search results are competitive and the space for 
+optimization is limited, hence careful keyword research is a crucial 
+step to increase your app’s visibility in the app stores. 
+
+
+3
+
+
+
+How to build a keyword list
+The first step to find new keyword ranking opportunities is to 
+complete building what we call a “semantic dictionary”, or in 
+other words, a list of relevant keywords for your app on which it 
+could rank. This could involve using brainstorming and writing 
+down words or short phrases you think people might search to 
+find your app, but you can also use a thesaurus to find similar 
+words, read the app description for apps similar to yours, or use 
+an ASO tool to help make this process easier, quicker and 
+create a more exhaustive list.
+
+
+
+Here are our 10 tips to find new keyword ideas :
+
+1 Analyze top app’s names, subtitles, and descriptions
+
+As a first step into your keyword research you can have a look at the 
+keywords other top apps in your category are targeting in their 
+metadata. This research can unveil which keywords they deem the most 
+relevant and might provide great insights for your own app.
+
+4
+
+
+
+2 Find out which keywords are generating most downloads for 
+your competitors
+
+The best way to find new keywords for your app is to dig deeper into 
+your competitor’s ASO strategy. It can provide you with a large pool of 
+new keyword ideas and give you more insights into what is working for 
+them and what not. 
+
+AppTweak’s Top Keywords feature unveils the keywords that drive most downloads 
+to your competitor’s apps. For example, Flipp receives most of its downloads from 
+its own branded terms but also competitor brands and general keywords such as 
+‘coupons’, ‘store ads’, or ‘shopping deals’.
+
+3 Find out which keywords competitors are bidding on in Apple 
+Search Ads
+
+This can be your biggest source of inspiration when building your 
+keyword list! Competitors that run an Advanced Apple Search Ads 
+campaign likely did a lot of research to find a pool of relevant keywords 
+that they can run ads on. With an ASO tool like AppTweak you can unveil 
+this information and create a pool of hundreds of keywords in minutes.
+
+5
+
+
+
+4 Identify keywords competitor’s rank for but you don’t
+
+When you build a keyword list, you will naturally start with the keywords 
+that are the most relevant for your app. However, the most interesting 
+keywords are the ones you have potentially missed. The best way to find 
+these missed opportunities is to closely research your competitor’s 
+keywords and find those keywords for which they rank, but your app 
+does not.
+
+Using AppTweak’s Opportunity Keywords we quickly spot keywords 
+that Wordscapes is ranking for but Word Cookies is not; including 
+‘crossword games’, ‘vocabulary apps’, ‘anagramme’, ‘game with letters’, 
+etc. These are very interesting keywords for Word Cookies to further 
+research and consider for its metadata.
+
+
+5 Identify keywords you’re already ranked in but aren’t optimizing for
+
+Reviewing your app’s ranked keywords is a crucial part in creating your ASO 
+strategy but is also very useful when researching new keyword opportunities 
+as it can unveil low hanging fruit. This part of your research can unveil 
+keywords that you did not target in your metadata but for which your app is 
+ranking. By adding these keywords to your metadata you can further increase 
+your rankings.
+
+6
+
+
+
+6 Understand app store search behavior with Apple & Google 
+auto-suggestions
+
+With Google and Apple Auto-Suggest features, you can check out the 
+auto-complete keywords coming directly from the Apple App Store and 
+Google Play Store. This is one of the strongest tools to understand which 
+keywords users use most often when they search in the app store.
+
+7 Find out which keywords are trending
+
+Seasonal events or new game launches can have a great impact on app 
+store search behavior. When relevant to your app some of these high 
+volume keywords can drive a lot of visibility to your app.
+
+If you are looking to update your metadata for seasonality, you need to carefully 
+study AppTweak’s Top Growth feature. Here you can discover which apps or games 
+have gone viral or spot seasonal opportunities. For example, as many people are 
+currently working from home due to the Covid 19 outbreak, we see that keywords 
+such as ‘fitness coach’ or ‘kids messenger’ are gaining popularity.
+
+7
+
+
+
+8 Look at the keywords for which Apple ranks featured content
+
+To help users discover new content and apps Apple now also ranks 
+curated lists and stories in the search results. We found that the 
+keywords chosen by Apple to rank stories were actually closely related 
+to the apps featured in that story. These keywords provide a real source 
+of inspiration to explore new ASO ideas and tactics for your app. You will 
+need an advanced ASO tool like AppTweak to unveil these insights.
+
+9 Take a look at your reviews
+
+The goal of keyword research is to find as many keywords that are 
+relevant, and your app’s reviews is a place that’s rich with words that 
+describe it. Your users, especially the ones that like your app enough to 
+leave a review, will describe the app using their own words. Some may 
+speak of it exactly as you think they would, but others may use slightly 
+different words that you can capture and optimize for.
+
+10 Merge and combine words to find new long-tail keywords.
+
+Don’t forget about long-tail keyword combinations. These often have 
+lower volume but also a lower difficulty score and thus are easier to rank 
+for. With AppTweak’s Keyword Shuffle tool you can add up to 5 keywords 
+and automatically we’ll create all possible combinations.
+
+AppTweak has more than 12 keyword research and suggestion tools to help you 
+with your keyword research. We recommend you to go through all AppTweak’s 
+keyword suggestion tools and add all the keywords that describe your app’s 
+functionality to your keyword list. Try to add up to 200 keywords to your list. In the 
+next step we will highlight how you can refine your keyword list and select the most 
+relevant keywords for your metadata. 
+
+8
+
+
+
+How to select the most 
+relevant keywords
+
+Generating a semantic dictionary is an important part of 
+keyword research, but it is really only one step in the entire 
+process. After you have added whatever you deem to be 
+enough keywords to your preliminary list, you need to sort 
+through your keywords to find the most strategic terms and 
+phrases that will, as a result of successful ASO, maximize your 
+organic downloads and increase your ranking.
+
+
+
+
+To select the most relevant keywords for your metadata 
+consider: 
+
+• Keyword Relevancy
+
+• Keyword Metrics
+
+9
+
+
+
+Relevancy
+The first element to consider when selecting keywords for your 
+metadata is relevancy. You should only target keywords that describe 
+the functionality of your app. Not only will that result in higher quality 
+downloads and more engaged users, your app will rank higher for 
+keywords that are relevant to your app instead of generic keywords. The 
+reason for that is simple: both stores want to provide you with the best 
+user experience and show apps that match the user’s search intent.
+
+Booking.com helps users book accommodation 
+for their upcoming trip. When researching 
+keywords in the Travel industry it might seem 
+that ‘flights’ is a great target keyword: it has a 
+high volume and people booking flights likely 
+also need to book accommodation. Except 
+‘flights’ is not relevant to Booking.com’s 
+functionality. There are other, more relevant apps 
+that offer flight booking options, so the app 
+stores will choose to show those apps in the 
+search results instead.
+
+ 
+
+If you have a look at the Live Search results for 
+certain keywords you will see that both stores do 
+a really great job to show the most relevant apps 
+in the search results. The top 8 apps that rank for 
+the keyword ‘flights’ are all apps that provide this 
+functionality. 
+
+10
+
+
+
+Keyword Metrics
+Once you have refined your semantic dictionary and removed all 
+irrelevant keywords you can rely on AppTweak’s Keyword Metrics to help 
+you decide which keywords are worth targeting and which may not be.
+
+• Volume or Search Popularity - an indicator of how popular this 
+keyword is in terms of searches. The metric varies between 5 and 
+100. The closer the volume is to 100, the more often users use this 
+keyword when searching in the app stores.
+
+At AppTweak we found that most keywords have a volume between 6 and 40 and 
+nearly all keywords that have a volume above 80 are branded keywords such as 
+Instagram, Snapchat or Youtube. So when refining your keyword list, don’t disregard 
+keywords with a volume of 20 as they might still drive a good amount of downloads 
+to your app!
+
+11
+
+
+
+• Difficulty - a score that represents how much competition exists for a 
+specific keyword. When a keyword has a high difficulty score it means 
+that many very powerful apps rank for that keyword, making it harder 
+for any other app to break through in the top 10.
+
+• Chance - an indicator that estimates how likely a certain app is to 
+rank in the top 10 for a keyword if it is chosen for the metadata.
+
+• KEI - the Keyword Efficiency Index, a figure generated by AppTweak 
+representing the ranking potential for a keyword, considering both 
+the chance and volume scores.
+
+Generally speaking you should select keywords with a high KEI, these 
+are the keywords with the highest volume for which you have the highest 
+chance to rank. 
+
+12
+
+
+
+Advanced keyword 
+
+research tips
+
+Consider competitor keyword rankings
+Apps and games with strong branding and high download velocity often 
+dominate the search results of interesting and high volume keywords. 
+That makes it very hard for other apps or newcomers to gain exposure 
+and rank top 10. Hence it is important to monitor your competitors and 
+find keywords and combinations they are not ranking well for. This will 
+allow you to target less competitive keywords that will increase your 
+chance to rank in the top 10.
+
+In the example below we have made a keyword 
+list for the Sweat Fitness App. 
+
+
+
+General keywords like ‘workout’, ‘fitness’ or 
+‘exercise app’ are very popular keywords but 
+also very competitive keywords with a high 
+difficulty score. 
+
+
+
+Even though the Sweat app targets these 
+keywords in its metadata, they are likely not 
+generating any downloads as the app does not 
+rank in the top 10 for these keywords. 
+
+
+
+Instead, when comparing the competitor’s 
+keyword rankings we see there is opportunity for 
+the Sweat app to rank for keywords such as 
+‘personal training’ , ‘personal fitness coach’, 
+‘exercise program’ or even ‘cardio program’. 
+Even though these combinations have lower 
+volume than ‘workout’ or ‘fitness’, if the app 
+manages to rank in the top 3 for these keywords 
+they will drive more downloads to the app.
+
+
+13
+
+
+
+Target long-tail combinations
+Keyword space is limited in the app stores, especially on the Apple App 
+Store. Apple provides 3 fields only where you can add keywords: the 
+title (30 characters), the subtitle (30 characters) and the keyword field 
+(100 characters). Therefore you should use your keywords wisely. Try to 
+target keywords that make long-tail combinations (phrases of two or 
+more keywords) to increase your scope and visibility.
+
+When we consider the example of ‘word cookies’ we find that ‘search’ is an 
+interesting keyword to target. The keywords ‘search’ by itself might not drive many 
+downloads to the app, but it makes very interesting long-tail combinations such as 
+‘word search games’, ‘word searches’, ‘crossword search’. 
+
+One tool that can help automate this process is AppTweak’s Keyword 
+Shuffle Tool. Add up to five different words to list all of the different 
+long-tail combinations, then research their volumes and your app 
+ranking - you might be surprised at some of the results!
+
+14
+
+
+
+Leverage Apple Search Ads to optimize your 
+conversion rate
+Both Apple and Google want to provide their users with the most 
+relevant search results. As a result they consider the keyword conversion 
+rate into their algorithm. However, ASO experts do not have any insights 
+into organic keyword conversion rates so they need to look at different 
+places to gather data. And Apple Search Ads can be one of these data 
+sources. 
+
+
+
+If you find that a certain set of keywords has a higher conversion rate 
+than others in your Apple Search Ads campaigns, make sure to transfer 
+over this knowledge into your organic ASO strategy and try to optimize 
+your organic presence for those keywords.
+
+15
+
+
+
+Localization - How to 
+keyword research in 
+different languages
+
+The App Store has over 148 available countries and regions 
+and 37 languages that support localized metadata and Google 
+Play supports 51 different languages. Search behaviour and 
+keyword volume are completely different in each localized 
+market due to varying cultures, linguistic trends and societal 
+norms. To fully optimize your app’s visibility worldwide you 
+have to consider localizing your metadata across all your target 
+markets.
+
+
+
+You don’t have to be a native speaker to optimize your app 
+listing across several markets. ASO tools like AppTweak can 
+help you find the right keywords you should target! Then with 
+the use of a native speaker you can transform your research 
+into well optimized metadata. 
+
+16
+
+
+
+How to keyword research in a foreign language
+The keyword research process in a foreign language is pretty similar to 
+the process described above. With AppTweak’s Keyword Research & 
+Suggestion tools you can create a list of over 200 keywords in under 30 
+minutes. Some of AppTweak’s most popular features when researching 
+in a foreign language include:
+
+• App Metadata: Select all the keywords your competitors are 
+targeting in their metadata.
+
+
+• Search Ads Reco: Quickly add all the keywords Apple suggest you 
+or your competitors should bid on with Apple Search Ads.
+
+
+• Trending Keywords: See which keywords are trending in the local 
+app store.
+
+
+• Ranked Keywords: Add all the keywords your competitors are 
+ranking for in the top 1, 10 or 100.
+
+Building an initial keyword list in a foreign language is easy with AppTweak. We 
+have a built-in translation feature that translates your competitor’s app metadata 
+and each keyword in your keyword list!
+
+17
+
+
+
+Selecting the most relevant keywords might be a more difficult task if 
+you don’t speak the local language. Especially in Asian languages some 
+words might have different meanings so how do you know which one is 
+the most relevant to your app? AppTweak’s Live Search feature can help 
+you with this. The Live Search feature shows you which apps are currently 
+ranking for a keyword, providing insights into the true meaning of some 
+words. 
+
+For example, ‘holiday’ can be 
+translated in Korean to ‘휴일’ . 
+However, when looking at the Live 
+Search Results we see that mostly 
+calendar apps providing info into 
+public holiday dates rank for that 
+keyword. This can help us 
+conclude that ‘holiday’ or ‘휴일’ is 
+not the most relevant keyword for 
+Booking.com to target in South 
+Korea.
+
+18
+
+
+
+Localization in US, UK, CA and AU
+This is often overlooked by many ASO experts or mobile marketers, but 
+it is also very important you perform keyword research for the different 
+English locales and localize your metadata for the United States, United 
+Kingdom, Canada and Australia specifically. Careful keyword research 
+can uncover local trends or competitors, different spellings or 
+colloquialisms. Colloquial language is culture-based and regional 
+differences affect search volumes in unique ways.
+
+
+
+For example, if we take a look at a specific category, Casino Games, we 
+can examine how each the US, UK and Australia have a different 
+expression for ‘slot machines’.
+
+Search Volume (iOS)
+
+Keywords
+
+slots 60 62 77
+
+casino games 49 49 37
+
+fruit machines 5 33 6
+
+pokies 5 13 70
+
+In the United States, ‘slots’ and ‘casino games’ are some of the more 
+popular search terms, but in the United Kingdom, people also tend to 
+use the word ‘fruit Machines. In Australia on the other hand ‘pokies’ is a 
+very popular word.
+
+19
+
+
+
+Carefully executing keyword research is a crucial part of any ASO 
+strategy. AppTweak has built a number of tools to help you easily find 
+keyword ideas in any language. Our unique keyword metrics will further 
+help you narrow down your research and really select those keywords 
+that have the most potential to increase your app’s visibility. 
+
+Sign up today for a 7-day free trial!
+www.apptweak.com
+
+20
